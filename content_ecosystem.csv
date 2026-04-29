@@ -1,0 +1,9 @@
+content_type,c2fo_exists,c2fo_url,taulia_exists,taulia_url
+blog,yes,https://c2fo.com/blog/,no,https://taulia.com/blog
+newsroom,yes,https://c2fo.com/newsroom/,no,https://taulia.com/newsroom
+resources,yes,https://c2fo.com/resources/,yes,https://taulia.com/resources/
+case-studies,yes,https://c2fo.com/case-study/,yes,https://taulia.com/resources/success-stories/
+webinars,no,https://c2fo.com/fourzerofour/,no,https://taulia.com/webinars
+podcast,yes,https://c2fo.com/fourzerofour/,no,https://taulia.com/podcast
+events,yes,https://c2fo.com/fourzerofour/,yes,https://taulia.com/company/events/
+glossary,yes,https://c2fo.com/glossary/,yes,https://taulia.com/glossary/
